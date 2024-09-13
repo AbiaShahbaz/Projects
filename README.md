@@ -1,3 +1,3 @@
 # Projects
 
-Hello! These are some simple projects that I've coded in python and java.
+Hello! These are some simple coding projects that I've created using python and/or java in my free time.
