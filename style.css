@@ -1,0 +1,82 @@
+/* ===== GLOBAL ===== */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #CD5C5C);
+    padding: 40px 20px;
+    color: #333;
+}
+
+/* ===== TITLE / HEADER ===== */
+h1 {
+    font-family: "Pacifico", cursive;
+    text-align: center;
+    font-size: 48px;
+    color: #FAFAD2;
+    text-shadow: 0 4px 12px rgba(255, 120, 170, 0.35);
+    margin-bottom: 20px;
+}
+
+h1 img {
+    margin: 0 8px;
+    border-radius: 5px;
+   
+    
+}
+
+/* ===== SUBTITLE ===== */
+h2 {
+    text-align: center;
+    font-size: 22px;
+    color: #FAFAD2;
+    margin-bottom: 30px;
+}
+
+/* ===== SECTION HEADERS ===== */
+h3 {
+    font-size: 15px;
+    color: #FAFAD2;
+    margin-top: 40px;
+    margin-bottom: 12px;
+    text-shadow: 0 2px 10px rgba(255,140,90,0.2);
+}
+
+/* ===== LISTS ===== */
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    background: rgba(255, 255, 255, 0.7);
+    margin: 8px 0;
+    padding: 12px 16px;
+    border-radius: 14px;
+    font-size: 18px;
+    color: #555;
+    backdrop-filter: blur(4px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    display: flex;                 /* makes the li a flex container */
+    justify-content: space-between;/* pushes name left, price right */
+    align-items: center;           /* vertically center the text */
+}
+
+
+
+/* ===== OPTIONAL: CONTAINER ===== */
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: rgba(255,255,255,0.5);
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+    backdrop-filter: blur(6px);
+}
