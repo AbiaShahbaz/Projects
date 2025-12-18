@@ -14,3 +14,10 @@ Project 3: Bubble Tea Shop Website [HTML/CSS]
 
 A simple and cute bubble tea shop website showcasing menu for drinks/prices and info. 
 
+Project 4: Airline Flight Reservation System [HTML/CSS/JavaScript]
+
+Visit Golden Hawks Air to explore and book flights across North America. 
+
+Note: This was a group project, heres the link to the repository: https://github.com/Minahil3337/CP317-group-project
+
+
